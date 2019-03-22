@@ -18,6 +18,6 @@ public class SampleDeployClass {
     
     public static void helloMethod() {
         System.debug('Hello World');
-        System.debug('testing merge');
+        System.debug('testing merge changes should be there only in develop branch');
     }
 }
