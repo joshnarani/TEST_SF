@@ -18,6 +18,7 @@ public class SampleDeployClass {
     
     public static void helloMethod() {
         System.debug('Hello World_test');
-        System.debug('testing merge.....');
+        System.debug('testing merge in develop');
+        echo "test success"
     }
 }
