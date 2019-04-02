@@ -22,3 +22,6 @@ public class SampleDeployClass {
         System.debug('testing merge changes should be there only in develop branch__......');
            }
         }
+        System.debug('mergeing to develop.....');
+        echo "test success";
+}
