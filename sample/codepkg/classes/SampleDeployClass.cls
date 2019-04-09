@@ -19,9 +19,8 @@ public class SampleDeployClass {
     public static void helloMethod() {
 
         System.debug('Hello World_test');
-        System.debug('testing merge changes should be there only in develop branch__......');
+        System.debug('testing merge');
            }
         }
-        System.debug('mergeing to develop.....');
-        echo "test success";
+        echo "test success for feature5";
 }
