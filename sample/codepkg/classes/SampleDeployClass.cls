@@ -23,5 +23,6 @@ public class SampleDeployClass {
            }
         }
         System.debug('mergeing to develop.....');
-        echo "test success";
+        Sytem.debug('tesing the merge from feature6 to integrate')
+        echo "merge test success";
 }
