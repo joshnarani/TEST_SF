@@ -25,5 +25,4 @@ public class SampleDeployClass {
         echo "test success for feature5";
         System.debug('mergeing to develop.....');
         Sytem.debug('tesing the merge from feature6 to integrate')
-        echo "merge test success";
-}
+        }
