@@ -18,6 +18,5 @@ public class SampleDeployClass {
     
     public static void helloMethod() {
         System.debug('Hello World_test');
-        echo "test success"
     }
 }
